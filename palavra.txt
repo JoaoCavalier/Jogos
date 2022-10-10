@@ -1,0 +1,16 @@
+Python
+melancia
+banana
+morango
+maca
+abacate
+mamao
+kiwi
+jaca
+uva
+caqui
+maracuja
+pera
+batata
+tomate
+manga
